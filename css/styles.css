@@ -12,7 +12,7 @@
   width:25%;
 
   float:right;
-  margin-left:30px;
+  margin-left:1.875rem;
 
 }
 .horrizontal{
@@ -34,7 +34,7 @@
 .chess{
   width:25%;
   float:left;
-  margin-right:30px;
+  margin-right:1.875rem;
 }
 /* .theone{
   clear:left;
@@ -125,13 +125,21 @@ h3{
 }
 .bottom-cloud {
   position:absolute;
-  left:300px;
-  bottom:300px;
+  left:18.75rem;
+  bottom:18.75rem;
+  width:10%;
+  height:5%;
 }
 .top-cloud{
   position:absolute;
-  right:300px;
-  top:50px;
+  right:18.75rem;
+  top:3.125rem;
+  width:10%;
+  height:5%;
+}
+.mountain{
+  width:40%;
+  height:40%;
 }
 #mypicture{
   width:20%;
