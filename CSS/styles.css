@@ -15,6 +15,21 @@
   margin-left:30px;
 
 }
+.horrizontal{
+  border-width:5px;
+  width:5%;
+  border-style:none;
+  border-top-style:dotted;
+  height:1px;
+  border-color:grey;
+
+}
+.skills{
+  padding-top:70px;
+}
+.profile{
+  padding-bottom:90px;
+}
 
 .chess{
   width:25%;
@@ -29,6 +44,9 @@
 } */
 .stylemeagain{
   color:#40514E;
+  text-align:center;
+  display:inline-block;
+  width:50%;
 }
 .styleme{
   color: #EAF6F6;
@@ -45,9 +63,11 @@
 .middle-container{
   /* height:200px;
   width:200px; */
-  background-color: beige;
+  background-color: #f4f9f9;
   position:relative;
   /* margin: 0 auto 0 auto; */
+  padding-top:140px;
+  /* padding-bottom:140px; */
 
 
 }
@@ -55,6 +75,7 @@
   /* height: 200px;
   width: 200px; */
   width:100%;
+
   background-color: #66BFBF;
   position:absolute;
   left:auto;
@@ -62,6 +83,8 @@
   margin: 0 auto 0 auto;
   color:#11999E;
   margin-top:3rem;
+  padding-top: 50px;
+  padding-bottom:30px;
   /* margin-bottom:0; */
 
 }
@@ -80,7 +103,7 @@ body{
   margin:0;
   text-align:center;
   font-family: 'Merriweather', serif;
-  background-color:beige;
+  background-color:#e4fbff;
 }
 h1{
   margin: 50px auto 0 auto;
@@ -111,8 +134,8 @@ h3{
   top:50px;
 }
 #mypicture{
-  width:600px;
-  height:600px;
+  width:20%;
+  height:20%;
 }
 a{
   color:#11999E;
